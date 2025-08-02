@@ -1,0 +1,81 @@
+scoreazy
+SCORING MADE EASY
+Assignment: Design a Smart Al Agent for a Real-Life
+Use Case
+About Scoreazy
+Scoreazy is an education-first company that blends psychology, Al, and smart design to
+build personalized learning experiences for school students. We focus on simplifying learning
+through innovative tools and student-centered content.
+About the Internship – Al Agent Developer
+As an Al Agent Developer Intern, you'll help design lightweight, Al-powered workflows that
+solve real-world education problems. This internship will assess your skills in automation
+logic, tool usage, and prompt thinking
+not full-stack development.
+Objective
+Choose a real-world scenario from the list below and build a basic design for an Al agent that
+automates that task. The goal is to test your ability to break down a problem, define a logical
+Al-assisted flow, and structure the solution using real tools and prompts.
+Task Overview
+You are expected to pick one use case and propose how you would build a lightweight Al +
+automation solution for it. The focus is on clarity of logic, tool usage, and prompt engineering,
+not a production-ready build.
+Step 1: Choose ONE of the following scenarios
+1. Student Support Agent
+Answers common questions that a student might have about an online course
+(timing, syllabus, payment, etc.).
+2. Report Generator Bot
+Takes basic inputs (e.g., quiz scores or survey responses) and drafts a 1-page
+student report with strengths and improvement areas.
+Scoreazy Edutech Private Limited | All rights reserved
+scoreazy
+SCORING MADE EASY
+3. Outreach Assistant
+Helps a small team reach out to 50 leads via email or WhatsApp by drafting
+personalized messages using available data (e.g., name, interest, region).
+4. Research Summarizer
+Scrapes 3-5 links or articles on a topic (e.g., "Learning Styles in High School
+Students") and creates a summary in bullet points.
+Step 2: Design Your Agent
+Structure your response in the following numbered format:
+1. Agent Objective
+A short description of what your agent is supposed to do.
+2. Input
+What inputs will the agent need? (e.g., student name, scores, links, questions)
+3. Workflow
+Explain your agent's process:
+Ο How it will be triggered
+Ο Step-by-step task breakdown
+Ο
+Which tools/APIs/services you'd use
+4. Prompt Sample(s)
+Share 1-2 example prompts you would feed into the LLM (OpenAl or others).
+5. Output Example
+Provide a mock output — such as a summary, message, or report the agent would
+generate.
+Guidelines
+• Use numbered steps or diagrams - clarity matters more than polish
+• Tools can include: Python, Google Sheets, Zapier, N8N, Notion, etc.
+•
+Full code is not required unless it's very short
+•
+Focus on logical flow, tool usage, and prompt structure
+Scoreazy Edutech Private Limited | All rights reserved
+scoreazy
+SCORING MADE EASY
+Deliverables
+1.Submit your assignment as a single Google Doc or PDF.
+2. Filename format:
+YourName_AI-AgentAssignment
+Example: AnayaRao_Al-AgentAssignment.pdf
+3. Your document should include:
+• Agent Objective
+• Input
+• Workflow
+•
+Sample Prompt(s)
+•
+Sample Output
+Estimated Effort
+2-3 hours
+"We look forward to reviewing your innovative approach. Good luck!"
+Scoreazy Edutech Private Limited | All rights reserved
